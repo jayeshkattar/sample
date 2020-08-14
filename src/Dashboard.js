@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
 
+// Reusable Component
 function Dashboard() {
   return (
     <div className="Dashboard">
