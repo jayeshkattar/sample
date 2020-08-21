@@ -3,9 +3,10 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
-import Home from "./Home";
+import Homes from "./assignment1/Homes";
+import Followers from "./Followers";
 
-ReactDOM.render(<Home />, document.getElementById("root"));
+ReactDOM.render(<Followers />, document.getElementById("root"));
 // document.getElementById('root').innerHTML = 'elements';
 
 // If you want your app to work offline and load faster, you can change
